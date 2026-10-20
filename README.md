@@ -35,7 +35,7 @@ Développer un système IoT complet pour la surveillance environnementale (temp�
 | **Wissal RHANDI** | **Programmation ESP32 + Communication MQTT** |
 | Ikram Mihfad] | Dashboard Node-RED |
 | Farah Ressati] | Infrastructure MQTT |
-| [Chaymae Rachid] | Documentation & Tests |
+| Chaymae Rachid | Documentation & Tests |
 
 ---
 
