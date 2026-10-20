@@ -74,4 +74,4 @@ Développer un système IoT complet pour la surveillance environnementale (temp�
 
 ---
 
-⭐ **Stage PFA recherché** : IoT, Systèmes Embarqués, Réseaux/Cybersécurité
+⭐ **Stage PFE recherché** : IoT, Cybersécurité, réseaux, cloud
